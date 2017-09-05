@@ -51,5 +51,6 @@ int main() {
 	cout << c.KNN_classifier(3, train, train) << endl;
 	cout << c.KNN_classifier(4, train, train) << endl;
 	cout << c.KNN_classifier(5, train, train) << endl;
+
 };
 
